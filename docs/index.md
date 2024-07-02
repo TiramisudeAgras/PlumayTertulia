@@ -10,7 +10,6 @@ hide:
 ## Bienvenidos a Pluma y Tertulia
 
 **Pluma y Tertulia** es un albergue para artículos sin hogar. Aquí damos cobijo a ideas, reflexiones y discusiones que buscan un espacio donde ser apreciadas y compartidas. Nuestro objetivo es crear un rincón cálido y acogedor para la exploración de la cultura, el arte, y la literatura.
-
 ---
 
 <div style="text-align: center;">
