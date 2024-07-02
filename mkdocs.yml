@@ -1,0 +1,42 @@
+site_name: Pluma y Tertulia | Albergue para artículos sin hogar.
+theme:
+  name: material
+  language: es
+  icon:
+    logo: octicons/project-24
+  font:
+    text: Merriweather
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      primary: deep orange
+      accent: indigo
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: yellow
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - search.suggest
+    - navigation.tabs
+    - header.autohide
+    - navigation.footer
+    - navigation.top
+
+copyright: Copyright &copy; 2024 Pluma y Tertulia & Contribuidores
+plugins:
+  - blog:
+      archive_name: Repositorio
+      pagination_per_page: 5
+      authors_profiles: false
+  - search:
+      lang:
+        - es
+        - en

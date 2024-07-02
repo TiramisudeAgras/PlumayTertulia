@@ -1,0 +1,19 @@
+authors:
+  Chachalingo:
+    name: Santiago Acuña González      # Author name
+    description: Bogotano sumido en el sueño dogmático # Author description
+    avatar: https://es.wahooart.com/Art.nsf/O/8YDVBA/$File/Juan-Gris-The-Smoker.JPG         # Author avatar
+    slug: url           # Author profile slug
+    url: url            # Author website URL
+  Judge:
+    name: David Jurado      # Author name
+    description: Autor Amateur # Author description
+    avatar: http://uploads4.wikiart.org/images/john-singer-sargent/gondolier-1905.jpg        # Author avatar
+    slug: url           # Author profile slug
+    url: url            # Author website URL
+  Raf:
+    name: Raf Pinewood      # Author name
+    description: Autor Amateur # Author description
+    avatar: https://vignette.wikia.nocookie.net/el-bestiario/images/e/ea/Dios_Cthulhu.png/revision/latest?cb=20150225025645&path-prefix=es        # Author avatar
+    slug: url           # Author profile slug
+    url: url            # Author website URL
