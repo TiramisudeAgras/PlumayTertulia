@@ -1,2 +1,2 @@
-# Blog
+# Entradas del Blog
 
