@@ -7,8 +7,8 @@ authors:
     url: url            # Author website URL
   Judge:
     name: David Jurado      # Author name
-    description: Autor Amateur # Author description
-    avatar: http://uploads4.wikiart.org/images/john-singer-sargent/gondolier-1905.jpg        # Author avatar
+    description: Uno de los comediantes más queridos del pais # Author description
+    avatar: https://i.pinimg.com/originals/12/9d/c9/129dc96387803187a0fdb65b440f7748.jpg        # Author avatar
     slug: url           # Author profile slug
     url: url            # Author website URL
   Raf:
