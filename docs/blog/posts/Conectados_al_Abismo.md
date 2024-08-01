@@ -2,6 +2,8 @@
 authors:
   - Raf
 date: 2023-05-04
+categories:
+  - Ensayos
 ---
 
 # Conectados al Abismo: El Desafío de la Intimidad en la Sociedad Digitalizada

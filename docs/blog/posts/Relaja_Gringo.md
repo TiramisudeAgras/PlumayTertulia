@@ -2,7 +2,10 @@
 authors:
   - Chachalingo
 date: 2023-04-04
+categories:
+  - Ensayos
 ---
+
 # Relaja Gringo
 
 > Esa universalidad, esa sensación de cohesión es parte de nuestra experiencia única, algo que los gringos jamás podrán extinguir: un fuego fatuo inmarcesible. Latinoamérica estará plagada de problemas, injusticias y miseria: pero nuestra herencia compartida lingüística es una montaña inamovible.

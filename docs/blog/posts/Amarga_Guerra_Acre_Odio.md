@@ -2,6 +2,8 @@
 authors:
   - Judge
 date: 2023-04-09
+categories:
+  - Cuentos/Novelas
 ---
 # Amarga guerra. Acre odio.
 
