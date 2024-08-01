@@ -31,6 +31,7 @@ theme:
     - navigation.top
 
 copyright: Copyright &copy; 2024 Pluma y Tertulia & Contribuidores
+
 plugins:
   - blog:
       archive_name: Repositorio
