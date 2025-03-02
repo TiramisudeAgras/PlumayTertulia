@@ -10,7 +10,7 @@ title: Contribuciones
 
 <div style="text-align: center;">
   <img src="https://blogimages.musement.com/2020/06/Rembrandt-paintings.jpeg" alt="Esperando la inspiración" style="width: 60%; height: auto;">
-  <p style="font-style: italic;">Únete a la versión contémporánea de la Ronda de la Nocturna</p>
+  <p style="font-style: italic;">Únete a la versión contémporánea de la Ronda Nocturna</p>
 </div>
 
 ---
