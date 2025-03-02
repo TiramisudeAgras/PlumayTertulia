@@ -30,6 +30,11 @@ theme:
     - navigation.footer
     - navigation.top
 
+nav:
+  - Inicio: index.md
+  - Blog: blog/index.md
+  - Contribuciones: contribuciones.md
+
 copyright: Copyright &copy; 2024 Pluma y Tertulia & Contribuidores
 
 plugins:
