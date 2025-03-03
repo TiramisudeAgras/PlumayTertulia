@@ -32,16 +32,20 @@ theme:
 
 nav:
   - Inicio: index.md
-  - Blog: blog/index.md
+  - Repositorio: 
+    - blog/index.md
   - Contribuciones: contribuciones.md
 
-copyright: Copyright &copy; 2024 Pluma y Tertulia & Contribuidores
+copyright: Copyright &copy; 2025 Pluma y Tertulia & Contribuidores
 
 plugins:
   - blog:
-      archive_name: Repositorio
+      archive_name: Archivo
       pagination_per_page: 5
       authors_profiles: false
+      blog_toc: true
+      post_date_format: full
+      categories_name: Géneros
   - search:
       lang:
         - es
