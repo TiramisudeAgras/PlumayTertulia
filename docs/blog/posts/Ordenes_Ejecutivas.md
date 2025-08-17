@@ -102,3 +102,8 @@ Sin embargo, es justo preguntarse si esta tradición de estabilidad podrá mante
 Quizás tanto latinoamericanos como estadounidenses podríamos aprender unos de otros: nosotros sobre cómo construir una cultura de respeto institucional que trascienda los textos constitucionales, y ellos sobre la importancia de establecer límites claros al poder presidencial que no dependan únicamente de la buena voluntad de quien ocupe el cargo.
 
 Después de todo, el equilibrio entre eficiencia gubernamental y control democrático sigue siendo el gran desafío de cualquier sistema presidencial, sin importar su ubicación geográfica o tradición constitucional.
+
+<div style="text-align: center;">
+  <img src="https://tusellopersonalizado.es/wp-content/uploads/2020/02/Mapa-de-bits-en-EXLIBRIS-BUHO.cdr_.jpg" alt="La Fragua de Vulcano" style="width: 20%; height: auto;">
+  <p style="font-style: italic;">Ex Libris Pluma y Tertulia</p>
+</div>
