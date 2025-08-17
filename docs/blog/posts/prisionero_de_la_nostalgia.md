@@ -5,6 +5,7 @@ date: 2025-03-03
 categories:
   - Ensayos
   - Prosa
+  - Lengua Castellana
 ---
 > Lo que no se siente hasta el punto en que se derrama incontrolablemente, no se siente en verdad.
 

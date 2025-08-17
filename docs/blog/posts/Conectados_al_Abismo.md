@@ -4,6 +4,7 @@ authors:
 date: 2023-05-04
 categories:
   - Ensayos
+  - Lengua Castellana
 ---
 
 # Conectados al Abismo: El Desafío de la Intimidad en la Sociedad Digitalizada

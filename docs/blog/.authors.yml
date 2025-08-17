@@ -23,4 +23,8 @@ authors:
     avatar: https://i.ebayimg.com/00/s/MTYwMFgxMTY2/z/vJkAAOSww1ljuOrh/$_57.JPG?set_id=880000500F        # Author avatar
     slug: url           # Author profile slug
     url: url            # Author website URL
+  EnigmaPrime:
+    name: Enigma Prime      # Author name
+    description: Hic Sunt Dracones # Author description
+    avatar: https://i.pinimg.com/736x/a6/cf/1f/a6cf1f26ecc6bf5671dc6fecb55b96c2.jpg        # Author avatar
 

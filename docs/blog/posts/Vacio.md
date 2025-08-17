@@ -4,6 +4,7 @@ authors:
 date: 2025-02-26
 categories:
   - Poesía
+  - Lengua Castellana
 ---
 # Vacío
 
