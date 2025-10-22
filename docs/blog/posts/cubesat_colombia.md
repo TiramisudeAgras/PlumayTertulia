@@ -12,13 +12,16 @@ categories:
 
 # Cuando el Pergamino Constitucional no Alcanza las Estrellas: Colombia, la Órbita Geoestacionaria y un Satélite del Tamaño de una Caja de Zapatos
 
+> [...] la Constitución colombiana de 1991 reclama soberanía sobre un segmento específico del espacio ultraterrestre. No sobre cualquier porción celeste, sino precisamente sobre aquella franja de la órbita geoestacionaria que se suspende, inmóvil y majestuosa, a 35,786 kilómetros por encima del territorio nacional. La ironía resulta tan deliciosa como instructiva. Colombia, que actualmente opera un único satélite —un modesto CubeSat del tamaño aproximado de una caja de zapatos—, se arroga constitucionalmente derechos soberanos sobre uno de los recursos orbitales más codiciados de la humanidad. Mientras tanto, sus vecinos Argentina y Brasil, sin pretensión constitucional alguna sobre territorios celestes, han desarrollado programas espaciales que operan 39 y 16 satélites respectivamente, fabrican sus propios ingenios espaciales, y dominan tecnologías que Colombia apenas comienza a explorar mediante la ayuda de contratistas extranjeros. Esta disparidad entre aspiración jurídica y capacidad tecnológica no es meramente anecdótica. Representa, en toda su dimensión, la distancia que separa la voluntad política plasmada en pergaminos constitucionales de la dura realidad de la ingeniería aeroespacial, el desarrollo industrial y la inversión sostenida en ciencia y tecnología.
+<!-- more -->
+
 ## Una ironía constitucional a 35,786 kilómetros de altura
 
 Descubrí esta curiosa peculiaridad jurídico-espacial mientras leía *A City on Mars*, el fascinante libro de Kelly y Zach Weinersmith que cuestiona nuestras fantasías sobre la colonización espacial. Entre sus páginas, casi como una nota al pie de las aspiraciones humanas más grandilocuentes, los autores mencionan un dato extraordinario: la Constitución colombiana de 1991 reclama soberanía sobre un segmento específico del espacio ultraterrestre. No sobre cualquier porción celeste, sino precisamente sobre aquella franja de la órbita geoestacionaria que se suspende, inmóvil y majestuosa, a 35,786 kilómetros por encima del territorio nacional.
 
 La ironía resulta tan deliciosa como instructiva. Colombia, que actualmente opera un único satélite —un modesto CubeSat del tamaño aproximado de una caja de zapatos—, se arroga constitucionalmente derechos soberanos sobre uno de los recursos orbitales más codiciados de la humanidad. Mientras tanto, sus vecinos Argentina y Brasil, sin pretensión constitucional alguna sobre territorios celestes, han desarrollado programas espaciales que operan 39 y 16 satélites respectivamente[^1], fabrican sus propios ingenios espaciales, y dominan tecnologías que Colombia apenas comienza a explorar mediante la ayuda de contratistas extranjeros.
 
-Esta disparidad entre aspiración jurídica y capacidad tecnológica no es meramente anecdótica. Representa, en toda su dimensión, la distancia que separa la voluntad política plasmada en pergaminos constitucionales de la dura realidad de la ingeniería espacial, el desarrollo industrial y la inversión sostenida en ciencia y tecnología.
+Esta disparidad entre aspiración jurídica y capacidad tecnológica no es meramente anecdótica. Representa, en toda su dimensión, la distancia que separa la voluntad política plasmada en pergaminos constitucionales de la dura realidad de la ingeniería aeroespacial, el desarrollo industrial y la inversión sostenida en ciencia y tecnología.
 
 ## El Artículo 101: ambición legislativa sin precedentes
 
