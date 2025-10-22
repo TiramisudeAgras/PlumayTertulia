@@ -50,3 +50,5 @@ plugins:
       lang:
         - es
         - en
+markdown_extensions:
+  - pymdownx.caret
