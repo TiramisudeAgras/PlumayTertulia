@@ -10,8 +10,7 @@ lang: es
 
 # Amarga guerra. Acre odio.
 
-> El sabor de la guerra es amargo, se compara al peor ron de los obreros: fuerte, dulzón
-abrebocas, sabor victorioso; amargor, trago de mercurio una vez reposado.
+> El sabor de la guerra es amargo, se compara al peor ron de los obreros: fuerte, dulzón abrebocas, sabor victorioso; amargor, trago de mercurio una vez reposado.
 <!-- more -->
 El odio es un sabor astringente, tan caprichoso como incierto, secreto, íntimo. Es un
 sentimiento que Piotr sentía con frecuencia cada que su bota pisaba la calle; era una especie
