@@ -499,6 +499,22 @@ a.tag:hover { background: var(--accent); color: var(--bg); text-decoration: none
   color: var(--ink);
 }
 
+/* Sinopsis / epígrafe: misma cita destacada para todos los formatos,
+   incluida la poesía (queda fuera de .post__body, así que ningún estilo
+   por formato la altera). */
+.post__lede { max-width: 640px; margin: 0 auto 2em; }
+.post__lede blockquote {
+  margin: 0;
+  padding: 0.2em 0 0.2em 1.1em;
+  border-left: 3px solid var(--accent);
+  font-family: var(--serif);
+  font-style: italic;
+  font-size: 1.12rem;
+  line-height: 1.6;
+  color: var(--ink);
+}
+.post__lede p { font-family: var(--serif); font-style: italic; color: var(--muted); }
+
 /* Notas al pie / referencias */
 .fn a { text-decoration: none; color: var(--accent); font-weight: 600; }
 .post__body ol.references {
@@ -542,29 +558,30 @@ a.tag:hover { background: var(--accent); color: var(--bg); text-decoration: none
   margin: 1.6em auto;
 }
 
-/* --- Formato: POESÍA (verso centrado, saltos preservados) --- */
-.format-poetry .post__body { text-align: center; }
+/* --- Formato: POESÍA (verso alineado, saltos preservados) ---
+   Todo el poema es una sola columna alineada a la izquierda y centrada como
+   bloque, de modo que TODOS los versos comparten el mismo margen izquierdo
+   (no cada estrofa por separado). */
+.format-poetry .post__body {
+  width: fit-content;
+  max-width: 100%;
+  margin: 0 auto;
+  text-align: left;
+}
 .format-poetry .post__body blockquote {
   border: 0;
   font-style: normal;
   font-size: 1.22rem;
   line-height: 2;
   padding: 0;
-  margin: 1.6em auto;
-  display: block;
-  width: fit-content;
-  max-width: 100%;
+  margin: 1.6em 0;
   text-align: left;
 }
 .format-poetry .post__body h2 { border: 0; text-align: center; font-style: italic; }
-/* Estrofas: cada bloque se centra como columna, con los versos alineados a la
-   izquierda y los saltos de línea del manuscrito preservados. */
 .format-poetry .post__body p {
   font-size: 1.15rem;
   line-height: 1.95;
-  width: fit-content;
-  max-width: 100%;
-  margin: 1.3em auto;
+  margin: 1.3em 0;
   text-align: left;
 }
 .format-poetry .post__body p.verse { white-space: normal; }

@@ -11,7 +11,7 @@ lang: es
 # Vacío
 
 > Verme a los ojos es ver un vacío.
-Otra noche en mi cuarto, desolado,
+> Otra noche en mi cuarto, desolado,
 <!-- more -->
 
 ## Salvedad
