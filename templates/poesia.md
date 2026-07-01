@@ -14,7 +14,9 @@ lang: es
 <!-- more -->
 
 En los textos con `format: poetry` cada salto de línea del manuscrito
-se conserva como verso; escriba el poema con naturalidad.
+se conserva como verso; escriba el poema con naturalidad. Esto también
+aplica a las estrofas escritas como cita (líneas que empiezan con `>`):
+cada línea es un verso, sin necesidad de espacios finales.
 
 Deje una línea en blanco
 para separar una estrofa

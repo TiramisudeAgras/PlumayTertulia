@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pluma y Tertulia</title>
+    <link>https://plumaytertulia.pages.dev/</link>
+    <description>Albergue para artículos sin hogar. Ensayos, poesía y cuentos en formato de periódico retro.</description>
+    <language>es</language>
+    <atom:link href="https://plumaytertulia.pages.dev/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>A Case for Enchantment in the 21st Century</title>
+      <link>https://plumaytertulia.pages.dev/#/articulo/a-case-for-enchantment-in-the-21st-century</link>
+      <guid isPermaLink="false">pluma-y-tertulia:a-case-for-enchantment-in-the-21st-century</guid>
+      <pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
+      <description>The astronomer measuring the death of stars has not made the heavens poorer.</description>
+    </item>
+    <item>
+      <title>Cuando el Pergamino Constitucional no Alcanza las Estrellas</title>
+      <link>https://plumaytertulia.pages.dev/#/articulo/cubesat-colombia</link>
+      <guid isPermaLink="false">pluma-y-tertulia:cubesat-colombia</guid>
+      <pubDate>Wed, 22 Oct 2025 12:00:00 +0000</pubDate>
+      <description>[...] la Constitución colombiana de 1991 reclama soberanía sobre un segmento específico del espacio ultraterrestre. No sobre cualquier porción celeste, sino precisamente sobre aquella franja de la órbita geoestacionaria que se suspende,…</description>
+    </item>
+    <item>
+      <title>One Verse</title>
+      <link>https://plumaytertulia.pages.dev/#/articulo/one-verse</link>
+      <guid isPermaLink="false">pluma-y-tertulia:one-verse</guid>
+      <pubDate>Sun, 17 Aug 2025 12:00:00 +0000</pubDate>
+      <description>Step carefully. Each step resonates, each glance refracts possibility, each pause folds a thousand echoes into the moment you thought was singular. The city breathes, the reflections tremble, the tyger prowls in every shadow, and the…</description>
+    </item>
+    <item>
+      <title>Prisionero de la nostalgia</title>
+      <link>https://plumaytertulia.pages.dev/#/articulo/prisionero-de-la-nostalgia</link>
+      <guid isPermaLink="false">pluma-y-tertulia:prisionero-de-la-nostalgia</guid>
+      <pubDate>Mon, 03 Mar 2025 12:00:00 +0000</pubDate>
+      <description>Lo que no se siente hasta el punto en que se derrama incontrolablemente, no se siente en verdad.</description>
+    </item>
+    <item>
+      <title>Vacío</title>
+      <link>https://plumaytertulia.pages.dev/#/articulo/vacio</link>
+      <guid isPermaLink="false">pluma-y-tertulia:vacio</guid>
+      <pubDate>Wed, 26 Feb 2025 12:00:00 +0000</pubDate>
+      <description>Verme a los ojos es ver un vacío. Otra noche en mi cuarto, desolado,</description>
+    </item>
+    <item>
+      <title>Conectados al Abismo: El Desafío de la Intimidad en la Sociedad Digitalizada</title>
+      <link>https://plumaytertulia.pages.dev/#/articulo/conectados-al-abismo</link>
+      <guid isPermaLink="false">pluma-y-tertulia:conectados-al-abismo</guid>
+      <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
+      <description>Desafiemos los algoritmos que moldean nuestra intimidad y busquemos en el acto sexual físico un significado personal y humano, alejándonos de los peligros de un mundo digitalizado que nos desconecta de nosotros mismos</description>
+    </item>
+    <item>
+      <title>Amarga guerra. Acre odio.</title>
+      <link>https://plumaytertulia.pages.dev/#/articulo/amarga-guerra-acre-odio</link>
+      <guid isPermaLink="false">pluma-y-tertulia:amarga-guerra-acre-odio</guid>
+      <pubDate>Sun, 09 Apr 2023 12:00:00 +0000</pubDate>
+      <description>El sabor de la guerra es amargo, se compara al peor ron de los obreros: fuerte, dulzón abrebocas, sabor victorioso; amargor, trago de mercurio una vez reposado.</description>
+    </item>
+  </channel>
+</rss>

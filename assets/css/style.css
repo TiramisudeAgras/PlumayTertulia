@@ -559,32 +559,32 @@ a.tag:hover { background: var(--accent); color: var(--bg); text-decoration: none
 }
 
 /* --- Formato: POESÍA (verso alineado, saltos preservados) ---
-   Todo el poema es una sola columna alineada a la izquierda y centrada como
-   bloque, de modo que TODOS los versos comparten el mismo margen izquierdo
-   (no cada estrofa por separado). */
-.format-poetry .post__body {
+   Los bloques de verso consecutivos se agrupan en <div class="poem"> (ver
+   mdToHtml). El poema se centra como un solo bloque cuyo ancho lo define el
+   verso más largo, de modo que TODAS las estrofas comparten el mismo margen
+   izquierdo; la prosa intercalada (notas, salvedades) no altera la alineación. */
+.format-poetry .post__body { text-align: left; }
+.format-poetry .post__body .poem {
   width: fit-content;
   max-width: 100%;
-  margin: 0 auto;
-  text-align: left;
+  margin: 1.6em auto;
 }
-.format-poetry .post__body blockquote {
+/* Estrofa: mismo estilo tanto para las escritas con ">" (blockquote) como
+   para las escritas con líneas simples (p.verse). */
+.format-poetry .post__body .poem blockquote,
+.format-poetry .post__body .poem p.verse {
   border: 0;
   font-style: normal;
-  font-size: 1.22rem;
-  line-height: 2;
-  padding: 0;
-  margin: 1.6em 0;
-  text-align: left;
-}
-.format-poetry .post__body h2 { border: 0; text-align: center; font-style: italic; }
-.format-poetry .post__body p {
   font-size: 1.15rem;
   line-height: 1.95;
+  padding: 0;
   margin: 1.3em 0;
   text-align: left;
+  white-space: normal;
 }
-.format-poetry .post__body p.verse { white-space: normal; }
+.format-poetry .post__body h2 { border: 0; text-align: center; font-style: italic; }
+/* Prosa fuera del poema (si la hubiera) conserva el estilo general. */
+.format-poetry .post__body > p { text-align: left; }
 
 /* ---- Compartir --------------------------------------------------------- */
 .share {
@@ -657,4 +657,22 @@ a.tag:hover { background: var(--accent); color: var(--bg); text-decoration: none
   .post__nav { flex-direction: column; }
   .post__nav a, .post__nav-next { max-width: 100%; text-align: left; margin-left: 0; }
   .profile__frame { width: 120px; flex-basis: 120px; }
+}
+
+/* ---- Impresión ---------------------------------------------------------
+   Un periódico debe imprimirse con dignidad: tinta negra sobre papel blanco,
+   sin cromo de interfaz (navegación, botones, conmutador de tema). */
+@media print {
+  body { background: #fff !important; color: #000 !important; font-size: 11pt; }
+  .masthead__bar, .mainnav, .share, .post__nav, .crumbs, .skip-link,
+  .term-toggle, .card__more, .btn { display: none !important; }
+  .masthead, .foot { border-color: #000; }
+  a { color: #000; text-decoration: none; }
+  .post__body a[href^="http"]::after {
+    content: " (" attr(href) ")";
+    font-size: 0.8em;
+    word-break: break-all;
+  }
+  .post__lede blockquote { border-left-color: #000; }
+  .wrap { max-width: none; }
 }
