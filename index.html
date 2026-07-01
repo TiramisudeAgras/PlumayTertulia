@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pluma y Tertulia — Albergue para artículos sin hogar</title>
+  <meta name="description" content="Pluma y Tertulia: albergue para artículos sin hogar. Ensayos, poesía y cuentos en formato de periódico retro." />
+
+  <!-- Open Graph (estáticos para todo el sitio) -->
+  <meta property="og:title" content="Pluma y Tertulia" />
+  <meta property="og:description" content="Albergue para artículos sin hogar." />
+  <meta property="og:type" content="website" />
+
+  <link rel="icon" type="image/svg+xml" href="assets/favicon.svg" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=IBM+Plex+Serif:ital,wght@0,400;0,600;0,700;1,400;1,600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body data-theme="paper">
+  <a class="skip-link" href="#main">Saltar al contenido</a>
+
+  <header class="masthead" id="top">
+    <div class="masthead__bar">
+      <button class="term-toggle" id="themeToggle" title="Cambiar tema" aria-label="Cambiar tema">
+        <span class="term-toggle__dot"></span><span id="themeLabel">papel</span>
+      </button>
+      <span class="masthead__meta" id="mastheadDate"></span>
+      <span class="masthead__meta masthead__edition">Edición No. <span id="editionNo">—</span></span>
+    </div>
+
+    <a href="#/" class="masthead__title" aria-label="Pluma y Tertulia — Inicio">
+      <span class="masthead__prompt">tertulia:~$</span> Pluma&nbsp;y&nbsp;Tertulia<span class="cursor">_</span>
+    </a>
+    <p class="masthead__tagline">Albergue para artículos sin hogar</p>
+
+    <nav class="mainnav" aria-label="Navegación principal">
+      <a href="#/">Portada</a>
+      <a href="#/generos">Géneros</a>
+      <a href="#/autores">Autores</a>
+      <a href="#/archivo">Archivo</a>
+      <a href="#/contribuciones">Contribuir</a>
+    </nav>
+  </header>
+
+  <main id="main" class="wrap" tabindex="-1">
+    <div id="view" class="view">
+      <div class="loading">cargando<span class="cursor">_</span></div>
+    </div>
+  </main>
+
+  <footer class="foot">
+    <div class="foot__rule"></div>
+    <p class="foot__colophon">Pluma y Tertulia</p>
+    <p class="foot__line">Copyright &copy; <span id="footYear"></span> Pluma y Tertulia &amp; Contribuidores</p>
+    <p class="foot__line foot__muted">Albergue para artículos sin hogar · Sin rastreadores.</p>
+    <p class="foot__line foot__muted">Primus Circumdedisti Me</p>
+  </footer>
+
+  <script src="assets/js/app.js"></script>
+</body>
+</html>

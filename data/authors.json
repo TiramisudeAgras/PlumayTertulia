@@ -1,0 +1,48 @@
+{
+  "Chachalingo": {
+    "name": "Santiago Acuña González",
+    "handle": "Chachalingo",
+    "role": "Editor & Autor",
+    "bio": "Bogotano sumido en el sueño dogmático. M.S. in Occupational Safety Management; Embry-Riddle Aeronautical University.",
+    "quote": "El espacio no se conquista con artículos constitucionales, sino con trabajo paciente.",
+    "avatar": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Museo_del_Prado_-_Goya_-_Caprichos_-_No._43_-_El_sue%C3%B1o_de_la_razon_produce_monstruos.jpg",
+    "social": {
+    }
+  },
+  "Judge": {
+    "name": "David Jurado",
+    "handle": "Judge",
+    "role": "Autor",
+    "bio": "Uno de los comediantes más queridos del país.",
+    "quote": "Lo que no se siente hasta el punto en que se derrama, no se siente en verdad.",
+    "avatar": "https://i.pinimg.com/originals/12/9d/c9/129dc96387803187a0fdb65b440f7748.jpg",
+    "social": {}
+  },
+  "Raf": {
+    "name": "Raf Pinewood",
+    "handle": "Raf",
+    "role": "Autor",
+    "bio": "Autor amateur.",
+    "quote": "Los vicios humanos abandonan la carne y se implantan en nuestras pantallas.",
+    "avatar": "https://vignette.wikia.nocookie.net/el-bestiario/images/e/ea/Dios_Cthulhu.png/revision/latest?cb=20150225025645&path-prefix=es",
+    "social": {}
+  },
+  "MoccaBM": {
+    "name": "Juan Diego Moncada",
+    "handle": "MoccaBM",
+    "role": "Autor",
+    "bio": "Hic Sunt Dracones.",
+    "quote": "Verme a los ojos es ver un vacío.",
+    "avatar": "https://i.ebayimg.com/00/s/MTYwMFgxMTY2/z/vJkAAOSww1ljuOrh/$_57.JPG?set_id=880000500F",
+    "social": {}
+  },
+  "EnigmaPrime": {
+    "name": "Enigma Prime",
+    "handle": "EnigmaPrime",
+    "role": "Autor",
+    "bio": "Estudiante doctoral de física matemática en la Universidad Purdue.",
+    "quote": "I am the pulse in the machinery, the murmur behind every hesitation.",
+    "avatar": "https://heraldodemexico.com.mx/u/fotografias/fotosnoticias/2021/1/9/303160.jpg",
+    "social": {}
+  }
+}
