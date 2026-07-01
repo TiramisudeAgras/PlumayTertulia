@@ -10,8 +10,7 @@ lang: en
 
 # A Case for Enchantment in the 21st Century
 
-> The astronomer measuring the death of stars 
-> has not made the heavens poorer.
+> The astronomer measuring the death of stars has not made the heavens poorer.
 <!-- more -->
 
 Listen—
