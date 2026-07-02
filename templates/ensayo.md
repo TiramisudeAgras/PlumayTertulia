@@ -23,6 +23,11 @@ Más desarrollo del argumento. Puede citar con el símbolo de mayor que:
 
 > Una cita destacada dentro del ensayo.
 
+<!-- Para insertar una imagen con leyenda, escríbala en su propia línea (borre este
+     comentario y descomente el ejemplo). La leyenda entre comillas es opcional y la
+     ruta va desde la raíz del sitio (empieza con /):
+     ![texto alternativo](/assets/img/mi-articulo/foto.webp "Leyenda al pie de la figura.") -->
+
 ## Referencias
 
 [1]: Apellido, Nombre. «Título de la obra». Editorial, año. https://enlace.com

@@ -491,6 +491,30 @@ a.tag:hover { background: var(--accent); color: var(--bg); text-decoration: none
 .post__body ul, .post__body ol { padding-left: 1.4em; margin: 0 0 1.2em; }
 .post__body li { margin: 0.3em 0; }
 
+/* Figuras con leyenda (estilo pie de foto de periódico) */
+.post__body figure, .page--prose figure { margin: 1.8em auto; text-align: center; }
+.post__body figure img, .page--prose figure img { margin: 0 auto 0.6em; }
+.post__body figcaption,
+.page--prose figcaption,
+.page--prose div[style] p {
+  font-family: var(--serif);
+  font-style: italic;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: var(--muted);
+  max-width: 52ch;
+  margin: 0.5em auto 0;
+}
+/* Regla fina bajo la imagen, como cintillo de cutline */
+.post__body figcaption::before,
+.page--prose figcaption::before {
+  content: "";
+  display: block;
+  width: 32px;
+  border-top: 1px solid var(--accent);
+  margin: 0 auto 0.6em;
+}
+
 .post__body blockquote {
   margin: 1.4em 0;
   padding: 0.2em 0 0.2em 1.1em;

@@ -20,4 +20,8 @@ Segundo párrafo. Continúa la historia con **énfasis** o *matices* cuando haga
 
 > Una cita centrada a modo de intermedio o carta dentro del relato.
 
+<!-- Para insertar una imagen con leyenda, escríbala en su propia línea (la leyenda
+     entre comillas es opcional; la ruta empieza con / desde la raíz del sitio):
+     ![texto alternativo](/assets/img/mi-articulo/foto.webp "Leyenda al pie de la figura.") -->
+
 Y así hasta el final.
